@@ -1,3 +1,4 @@
+![Banner](GitHub_Banner.png)
 # Hi, I'm Winjeet Singh 👋  
 ### AI | Data Science | Machine Learning | Deep Learning | NLP | Power BI | SQL | Computer Vision
 
